@@ -1,5 +1,7 @@
 # Tray Coding Challenge
 
+This challenge is run on Python 3.
+
 ## Running the hoover simulation
 
 - Place the `input.txt` file into the root directory of the repository.
