@@ -1,0 +1,6 @@
+__pycache__
+.DS_Store
+input.txt
+env/
+*.pyc
+*.yaml
